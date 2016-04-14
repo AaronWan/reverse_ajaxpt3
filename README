@@ -1,0 +1,13 @@
+You must have Maven installed to run the projects:
+
+    http://maven.apache.org/
+
+Change directory to a sample then execute: 
+
+    * for Jetty samples: mvn jetty:run
+    * for Tomcat sample: mvn exec:exec
+    * for Socket.IO sample: mvn jetty:run
+
+And go to
+
+    http://localhost:8080/
